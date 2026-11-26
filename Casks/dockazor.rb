@@ -1,6 +1,6 @@
 cask "dockazor" do
-  version "2.0.0-beta.1"
-  sha256 "a8d8c5412af61a0aff3ee1d31bd4de77e58374ace96511ffb855eca1a5b8daba"
+  version "2.0.0-beta.2"
+  sha256 "31d20c65190deec7868c01031fb1ce982736fc58698515fe8ea9046e5c3f3eca"
 
   url "https://download.dockazor.com/mac/Dockazor-#{version}-arm64.dmg"
   name "Dockazor"
